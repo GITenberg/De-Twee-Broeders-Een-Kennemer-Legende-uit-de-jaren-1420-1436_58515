@@ -1,10 +1,13 @@
 _repo: De-Twee-Broeders-Een-Kennemer-Legende-uit-de-jaren-1420-1436_58515
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Rünckel, Arie C.
     gutenberg_agent_id: '50006'
     url: http://www.gutenberg.org/2009/agents/50006
+covers:
+- cover_type: archival
+  image_path: 58515-h/images/frontcover.jpg
 creator:
   authors:
   - agent_name: Hofdijk, W. J. (Willem Jacobszoon)
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2188
     wikipedia: http://nl.wikipedia.org/wiki/Cornelis_Johannes_Kieviet
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58515#De-Twee-Broeders-Een-Kennemer-Legende-uit-de-jaren-1420-1436
 gutenberg_issued: '2018-12-22'
 gutenberg_type: Text
 identifiers:
