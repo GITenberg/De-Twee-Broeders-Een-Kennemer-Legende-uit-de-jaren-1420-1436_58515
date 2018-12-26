@@ -1,0 +1,37 @@
+_repo: De-Twee-Broeders-Een-Kennemer-Legende-uit-de-jaren-1420-1436_58515
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Rünckel, Arie C.
+    gutenberg_agent_id: '50006'
+    url: http://www.gutenberg.org/2009/agents/50006
+creator:
+  authors:
+  - agent_name: Hofdijk, W. J. (Willem Jacobszoon)
+    alias: Hofdijk, Willem Jacobszoon
+    birthdate: 1816
+    deathdate: 1888
+    gutenberg_agent_id: '33877'
+    url: http://www.gutenberg.org/2009/agents/33877
+  - agent_name: Kieviet, Cornelis Johannes
+    alias: Kieviet, C. Joh. (Cornelis Johannes)
+    birthdate: 1858
+    deathdate: 1931
+    gutenberg_agent_id: '2188'
+    url: http://www.gutenberg.org/2009/agents/2188
+    wikipedia: http://nl.wikipedia.org/wiki/Cornelis_Johannes_Kieviet
+description: ''
+gutenberg_issued: '2018-12-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58515'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'De Twee Broeders
+
+  Een Kennemer Legende uit de jaren 1420-1436'
+url: http://www.gutenberg.org/ebooks/58515
